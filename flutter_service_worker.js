@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0eaceb985ebeb81f7d48418f27da247b",
-"assets/AssetManifest.bin.json": "4ffae94600a4a7fc641e14a1f3c359eb",
-"assets/AssetManifest.json": "da309e7ed42a1fc0db301f91df64aafb",
+const RESOURCES = {"assets/AssetManifest.bin": "195839a6e1f98f3ca360ba6591695d51",
+"assets/AssetManifest.bin.json": "c5e496c3b1969fb5e13a772d886e0376",
+"assets/AssetManifest.json": "e1ca4549968d394db092aaf891329c0f",
 "assets/assets/images/01.png": "dde8694ed73db4bc28d3e0fe80fddec1",
 "assets/assets/images/02.png": "4610e9d65ebbccc3c1f1ea0e349da859",
 "assets/assets/images/03.png": "5e924dc1a48812dcf5a5797e1930003a",
@@ -65,6 +65,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0eaceb985ebeb81f7d48418f27da247b
 "assets/assets/images/LUXE%2520DECORA%2520Logo%2520cp%2520svg.svg": "57341e2880f884296ae5d42c941a7c78",
 "assets/assets/images/Luxe%2520Decora%2520Logo.png": "1e75d3b87490d94876e0bb1a2ec6341d",
 "assets/assets/images/Map.jpg": "fe9a2d383090ba358182ee975e973db1",
+"assets/assets/images/Map.png": "8956145aa5d3e9bf3260872a5e074b66",
 "assets/assets/images/Norbond%2520Black.png": "8404ef1a7c2b097ef40e0366efc3cb07",
 "assets/assets/images/Norbond%2520Logo%2520cp%2520svg.svg": "5d5ad90fe8399d0fa64cf53565535951",
 "assets/assets/images/pexels-pixabay-37347.jpg": "caa77962b19c04018ada1d40502457b5",
@@ -98,14 +99,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "0eaceb985ebeb81f7d48418f27da247b
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "60e332eabf1aaf39d9245dbb800bb774",
+"flutter_bootstrap.js": "ae632687bab4b71c68c920a55ac24330",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b275eefe54ea86afa8fab4b784d6fff5",
 "/": "b275eefe54ea86afa8fab4b784d6fff5",
-"main.dart.js": "baa281a06b1cd19b1961a3ac9079d110",
+"main.dart.js": "379b2015898a1d992d4bae056402a4be",
 "manifest.json": "bf24c84c3bf99672a631c4f84464e793",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7"};
 // The application shell files that are downloaded before a service worker can
